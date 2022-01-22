@@ -30,8 +30,7 @@ It should be noted however certain data does not exist in the `SilencePlaintextB
 
 I'd recommend if you must use SMS, switching to one of these alternatives:
 
-- [Simple SMS Messenger](https://f-droid.org/en/packages/com.simplemobiletools.smsmessenger/) exports to a JSON format which does include MMS data.
-- [QKSMS](https://f-droid.org/en/packages/com.moez.QKSMS/) exports to JSON, [**cannot** export MMS messages](https://github.com/moezbhatti/qksms/commit/10b37d43891eaa6d8cacb6657726b478f591fee1#diff-a4d7b724ff5d6be98c3d28e22e00b9e61e496f22521c09732d9c3eb2c8a8ae65R153) yet.
+- AOSP Messenger app with [SMS Import / Export](https://f-droid.org/en/packages/com.github.tmo1.sms_ie/)
 
 Or a Matrix bridge (if you run your own Matrix server):
 
